@@ -4,4 +4,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MyoniM&column=7&margin-w=15&margin-h=15)](https://github.com/MyoniM/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="c" width="40" height="40"/> </a> </p>
+<p align="left"> Next js <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="c" width="40" height="40"/> </a> </p>

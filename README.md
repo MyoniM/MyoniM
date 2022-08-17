@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-#### I'm Yonatan, a Full-Stack Developer.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+#### I'm Yonatan, a Full-Stack Developer | Systems Designer | Junior DevOps.
 
 ##### NOW
 
-- 🇵🇹 Working tirelessly to become a Code Ninja🐱‍👤
+- 🇵🇹 Working tirelessly to become a Code Ninja
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ##### BIO
 
@@ -15,3 +17,20 @@
 - 💬 Ping me about **Jobs**, **Projects**
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/yonatan-merkebu-16a633182/)
 - ⚡️ Fun fact: Terrible at cracking jokes😅
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```python
+  me = {
+    "pronouns": "He" | "Him",
+    "code" : ["Python", "Go", "Javascript", "Dart"],
+    "askMeAbout" : ["tech", "app dev", "web dev", "devops", "systems design"],
+    "technologies" : {
+        "backEnd" : ["Node", "Fiber", "Flask"],
+        "mobileApp" : ["Flutter""],
+        "devOps" : ["AWS", "Docker🐳", "K8s", "GitLab", "Terraform", "Ansible"],
+        "databases" : ["mongo", "MySql", "Postgresql"],
+    },
+    "architecture": ["Serverless Architecture", "Microservices", "Single page applications"],
+}
+```

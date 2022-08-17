@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 #### I'm Yonatan, a Full-Stack Developer | Systems Designer | Junior DevOps.
 
 ##### NOW
 
-- 🇵🇹 Working tirelessly to become a Code Ninja
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🇵🇹 Working tirelessly to become a Code Ninja <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ##### BIO
 

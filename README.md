@@ -34,4 +34,4 @@
 ```
 
 ##### CERTIFICATIONS
-![systems expert certification]([http://url/to/img.png](https://github.com/MyoniM/simple-portfolio-website/blob/master/public/images/sys-admin-cerificate.PNG))
+![sys-admin-cerificate](https://user-images.githubusercontent.com/61096394/186869309-89cfa1a2-381a-460f-9ef1-b1793995b14f.PNG)

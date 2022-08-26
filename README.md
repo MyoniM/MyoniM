@@ -34,4 +34,4 @@
 ```
 
 ##### CERTIFICATIONS
-<img src="https://user-images.githubusercontent.com/61096394/186869309-89cfa1a2-381a-460f-9ef1-b1793995b14f.PNG" alt="sys-admin-cerificate" width="500">
+<img src="https://user-images.githubusercontent.com/61096394/186869309-89cfa1a2-381a-460f-9ef1-b1793995b14f.PNG" alt="sys-admin-cerificate" width="300">

@@ -32,3 +32,6 @@
     "architecture": ["Serverless Architecture", "Microservices", "Single page applications"],
 }
 ```
+
+##### CERTIFICATIONS
+<img src"https://github.com/MyoniM/simple-portfolio-website/blob/master/public/images/sys-admin-cerificate.PNG" alt="systems expert certification" />

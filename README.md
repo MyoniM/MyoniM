@@ -35,3 +35,4 @@
 
 ##### CERTIFICATIONS
 <img src="https://user-images.githubusercontent.com/61096394/186869309-89cfa1a2-381a-460f-9ef1-b1793995b14f.PNG" alt="sys-admin-cerificate" width="300">
+<img src="https://user-images.githubusercontent.com/61096394/189474509-6d27d170-971d-4512-b34a-f5a4a4b35619.PNG" alt="algo-expert-cerificate" width="300">

@@ -21,10 +21,10 @@
 ```python
   me = {
     "pronouns": "He" | "Him",
-    "code" : ["Python", "Go", "Javascript", "Dart"],
+    "code" : ["Python", "Javascript", "Dart"],
     "askMeAbout" : ["tech", "app dev", "web dev", "devops", "systems design"],
     "technologies" : {
-        "backEnd" : ["Node", "Fiber", "Flask"],
+        "backEnd" : ["Node", "Flask"],
         "mobileApp" : ["Flutter""],
         "devOps" : ["AWS", "Docker🐳", "K8s", "GitLab", "Terraform", "Ansible"],
         "databases" : ["mongo", "MySql", "Postgresql"],

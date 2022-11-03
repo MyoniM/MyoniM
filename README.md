@@ -10,7 +10,7 @@
 
 - 🏢 I'm currently aiming to extend my knowledge. Learning, coding evry day.**
 - 🌍 I'm mostly active within the **Web and mobile** dev communities
-- 🔨 Built: [edu](https://github.com/MyoniM/edu) [Mirror Code](https://mirror-code.web.app), [Postgre Schema Visualizer](https://pg-schema-visualizer.web.app), [Path Finder](https://pathfinder-visually.web.app/), [Rate Limiter](https://www.npmjs.com/package/simple-rate-limiter-middleware), etc…
+- 🔨 Built: [edu](https://github.com/MyoniM/edu), [Mirror Code](https://mirror-code.web.app), [Postgre Schema Visualizer](https://pg-schema-visualizer.web.app), [Path Finder](https://pathfinder-visually.web.app/), [Rate Limiter](https://www.npmjs.com/package/simple-rate-limiter-middleware), etc…
 - 🌱 Learning all about **Algorithms, Systems Design, DevOps and Open Source**
 - 💬 Ping me about **Jobs**, **Projects**
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/yonatan-merkebu-16a633182/)

@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-#### I'm Yonatan, a Full-Stack Developer | Systems Designer | Junior DevOps.
-
-##### NOW
-
-- 🇵🇹 Working tirelessly to become a Code Ninja <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#### I'm Yonatan, a Full-Stack Developer | Systems Designer | Junior DevOps & Cloud Engineer.
 
 ##### BIO
 
 - 🏢 I'm currently aiming to extend my knowledge. Learning, coding evry day.**
-- 🌍 I'm mostly active within the **Web and mobile** dev communities
 - 🔨 Built: [edu](https://github.com/MyoniM/edu), [Mirror Code](https://mirror-code.web.app), [Postgre Schema Visualizer](https://pg-schema-visualizer.web.app), [Path Finder](https://pathfinder-visually.web.app/), [Rate Limiter](https://www.npmjs.com/package/simple-rate-limiter-middleware), etc…
-- 🌱 Learning all about **Algorithms, Systems Design, DevOps and Open Source**
+- 🌱 Learning all about **Algorithms, Systems Design, DevOps and cloud**
 - 💬 Ping me about **Jobs**, **Projects**
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/yonatan-merkebu-16a633182/)
 - ⚡️ Fun fact: Terrible at cracking jokes😅
